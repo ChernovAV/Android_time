@@ -1,0 +1,10 @@
+# --table-start--
+dataClass=com.chernov.android.android_time.DataBase.Simple
+tableName=simple
+# --table-fields-start--
+# --field-start--
+fieldName=artist
+# --field-end--
+# --field-start--
+# --table-end--
+#################################

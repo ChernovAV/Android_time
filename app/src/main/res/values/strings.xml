@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_time</string>
+    <string name="action_settings">Settings</string>
+    <string name="changeFon">Изменить цвет фона</string>
+    <string name="getData">Загрузить тестовые данные</string>
+    <string name="error">no internet connect or incorrect page</string>
+    <string name="last">Последнее:</string>
+</resources>
